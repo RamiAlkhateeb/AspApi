@@ -30,7 +30,7 @@ with the following body :
 
     "UserId" : 1,
 
-    "ProductId" : 2,
+    "ProductId" : 2
 
 }
 
