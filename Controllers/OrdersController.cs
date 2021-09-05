@@ -56,7 +56,7 @@ namespace ProductsAPI.Controllers
         {
             await Db.Connection.OpenAsync();
             var query = new OrdersQuery(Db);
-            var result = await query.FindOneAsync(id);
+            var result = await query.FindOrderInfoAsync(id);
             if (result is null)
                 return new NotFoundResult();
             return new OkObjectResult(result);

@@ -55,7 +55,7 @@ namespace ProductsAPI.Controllers
         public async Task<IActionResult> GetOne(int id)
         {
             await Db.Connection.OpenAsync();
-            var query = new ProductsQuery(Db);
+            var query = new UsersQuery(Db);
             var result = await query.FindOneAsync(id);
             if (result is null)
                 return new NotFoundResult();
