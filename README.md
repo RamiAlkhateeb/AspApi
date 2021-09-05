@@ -15,21 +15,33 @@ and the body should be :
     "Address": "Damascus",
 
     "Age": 20
-    
+
 }
 
 Order a product api:
+
 POST
+
 http://localhost:5000/api/orders
+
+with the following body : 
+
 {
+
     "UserId" : 1,
+
     "ProductId" : 2,
+
 }
 
 Create a new product api :
+
 POST
+
 http://localhost:5000/api/products
+
 and the body should be : 
+
 {
     "Name": "iphone 5",
     "Category": "Mobiles",
@@ -37,15 +49,25 @@ and the body should be :
 }
 
 Modify an existing product api :
+
 PUT
+
 http://localhost:5000/api/products/2
+
 and the body should be : 
+
 {
+
     "Name": "iphone 5",
+
     "Category": "Mobiles",
+
     "Price": 130
+
 }
 
 Get Order infomation api:
+
 GET
+
 http://localhost:5000/api/orders/2
