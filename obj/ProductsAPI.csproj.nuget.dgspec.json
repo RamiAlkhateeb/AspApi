@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rami/Desktop/Work/asp/Shop/Shop.csproj": {}
+    "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj": {}
   },
   "projects": {
-    "/home/rami/Desktop/Work/asp/Shop/Shop.csproj": {
+    "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rami/Desktop/Work/asp/Shop/Shop.csproj",
-        "projectName": "Shop",
-        "projectPath": "/home/rami/Desktop/Work/asp/Shop/Shop.csproj",
+        "projectUniqueName": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj",
+        "projectName": "ProductsAPI",
+        "projectPath": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj",
         "packagesPath": "/home/rami/.nuget/packages/",
-        "outputPath": "/home/rami/Desktop/Work/asp/Shop/obj/",
+        "outputPath": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rami/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.3.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

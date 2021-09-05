@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ProductsAPI
+build_property.ProjectDir = /home/rami/Desktop/Work/asp/products-api-dotnet-core/

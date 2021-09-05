@@ -1,0 +1,39 @@
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/appsettings.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI.deps.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI.runtimeconfig.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI.runtimeconfig.dev.json
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI.dll
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/bin/Debug/netcoreapp3.0/ProductsAPI.pdb
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.csprojAssemblyReference.cache
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/staticwebassets/ProductsAPI.StaticWebAssets.Manifest.cache
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/staticwebassets/ProductsAPI.StaticWebAssets.xml
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.AssemblyInfo.cs
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.RazorTargetAssemblyInfo.cache
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.dll
+/Volumes/Macintosh HD2/RnDAndLearning/DotNetAPIGateway/ProductsAPI/obj/Debug/netcoreapp3.0/ProductsAPI.pdb
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/appsettings.json
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI.deps.json
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI.runtimeconfig.json
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI.runtimeconfig.dev.json
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI.dll
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/bin/Debug/netcoreapp3.0/ProductsAPI.pdb
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.csproj.AssemblyReference.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.AssemblyInfoInputs.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.AssemblyInfo.cs
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.csproj.CoreCompileInputs.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/staticwebassets/ProductsAPI.StaticWebAssets.Manifest.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/staticwebassets/ProductsAPI.StaticWebAssets.xml
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/scopedcss/bundle/ProductsAPI.styles.css
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.RazorTargetAssemblyInfo.cache
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.dll
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.pdb
+/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/Debug/netcoreapp3.0/ProductsAPI.genruntimeconfig.cache
