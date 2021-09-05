@@ -1,13 +1,21 @@
 # products-api-dotnet-core
 
 Create user account api:
+
 POST
+
 http://localhost:5000/api/users
+
 and the body should be : 
+
 {
+
     "Name": "Ammar",
+
     "Address": "Damascus",
+
     "Age": 20
+    
 }
 
 Order a product api:
