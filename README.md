@@ -1,4 +1,4 @@
-# products-api-dotnet-core
+# products api dotnet core
 
 ## Create user account api:
 
@@ -18,7 +18,7 @@ and the body should be :
 
 }
 
-Order a product api:
+## Order a product api:
 
 POST
 
@@ -34,7 +34,7 @@ with the following body :
 
 }
 
-Create a new product api :
+## Create a new product api :
 
 POST
 
@@ -48,7 +48,7 @@ and the body should be :
     "Price": 120
 }
 
-Modify an existing product api :
+## Modify an existing product api :
 
 PUT
 
@@ -66,7 +66,7 @@ and the body should be :
 
 }
 
-Get Order infomation api:
+## Get Order infomation api:
 
 GET
 
