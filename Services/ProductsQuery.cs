@@ -40,7 +40,7 @@ namespace ProductsAPI
         {
             using var txn = await Db.Connection.BeginTransactionAsync();
             using var cmd = Db.Connection.CreateCommand();
-            cmd.CommandText = @"DELETE FROM `BlogPost`";
+            cmd.CommandText = @"DELETE FROM `products`";
             await cmd.ExecuteNonQueryAsync();
             await txn.CommitAsync();
         }

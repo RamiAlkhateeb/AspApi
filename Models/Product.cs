@@ -45,7 +45,7 @@ namespace ProductsAPI
         public async Task DeleteAsync()
         {
             using var cmd = Db.Connection.CreateCommand();
-            cmd.CommandText = @"DELETE FROM `BlogPost` WHERE `Id` = @id;";
+            cmd.CommandText = @"DELETE FROM `products` WHERE `Id` = @id;";
             BindId(cmd);
             await cmd.ExecuteNonQueryAsync();
         }

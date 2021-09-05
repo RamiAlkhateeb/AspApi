@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3x7VDo+iH3kzPvVbCLXkjeHc8JmTPFlsPRZNngYTtGoxLT/QB1QnCsjixkbnfAqQm3XYXW8yPbfBaslEUzDKKw==",
+  "dgSpecHash": "SYOiwrE+xXlNNPsalqtcC3AX2rGIX7DQH/NV1Fd5uszLxrDbFd4XNicgePa7po8y7bHdF8CddRgd/4XHAxkwlA==",
   "success": true,
-  "projectFilePath": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj",
+  "projectFilePath": "/home/rami/Desktop/Work/asp/AspApi/ProductsAPI.csproj",
   "expectedPackageFiles": [
     "/home/rami/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/rami/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

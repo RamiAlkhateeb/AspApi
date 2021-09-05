@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj": {}
+    "/home/rami/Desktop/Work/asp/AspApi/ProductsAPI.csproj": {}
   },
   "projects": {
-    "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj": {
+    "/home/rami/Desktop/Work/asp/AspApi/ProductsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj",
+        "projectUniqueName": "/home/rami/Desktop/Work/asp/AspApi/ProductsAPI.csproj",
         "projectName": "ProductsAPI",
-        "projectPath": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/ProductsAPI.csproj",
+        "projectPath": "/home/rami/Desktop/Work/asp/AspApi/ProductsAPI.csproj",
         "packagesPath": "/home/rami/.nuget/packages/",
-        "outputPath": "/home/rami/Desktop/Work/asp/products-api-dotnet-core/obj/",
+        "outputPath": "/home/rami/Desktop/Work/asp/AspApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rami/.nuget/NuGet/NuGet.Config"

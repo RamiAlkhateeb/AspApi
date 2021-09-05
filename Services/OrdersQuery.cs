@@ -18,7 +18,7 @@ namespace ProductsAPI
         public async Task<Order> FindOneAsync(int id)
         {
             using var cmd = Db.Connection.CreateCommand();
-            cmd.CommandText = @"SELECT `Id`, `Name`, `Address`,`Age` FROM `users` WHERE `Id` = @id";
+            cmd.CommandText = @"SELECT * FROM `orders` WHERE `Id` = @id";
             cmd.Parameters.Add(new MySqlParameter
             {
                 ParameterName = "@id",
@@ -40,7 +40,7 @@ namespace ProductsAPI
         {
             using var txn = await Db.Connection.BeginTransactionAsync();
             using var cmd = Db.Connection.CreateCommand();
-            cmd.CommandText = @"DELETE FROM `BlogPost`";
+            cmd.CommandText = @"DELETE FROM `orders`";
             await cmd.ExecuteNonQueryAsync();
             await txn.CommitAsync();
         }

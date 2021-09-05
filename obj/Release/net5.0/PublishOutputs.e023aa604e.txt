@@ -1,0 +1,13 @@
+/home/rami/Desktop/Work/asp/AspApi/publish/ProductsAPI
+/home/rami/Desktop/Work/asp/AspApi/publish/appsettings.Development.json
+/home/rami/Desktop/Work/asp/AspApi/publish/appsettings.json
+/home/rami/Desktop/Work/asp/AspApi/publish/ProductsAPI.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/ProductsAPI.deps.json
+/home/rami/Desktop/Work/asp/AspApi/publish/ProductsAPI.runtimeconfig.json
+/home/rami/Desktop/Work/asp/AspApi/publish/ProductsAPI.pdb
+/home/rami/Desktop/Work/asp/AspApi/publish/Microsoft.OpenApi.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/MySqlConnector.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/Newtonsoft.Json.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rami/Desktop/Work/asp/AspApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -28,7 +28,7 @@ namespace ProductsAPI.Controllers
 
         public AppDb Db { get; }
 
-         // GET api/products
+         // GET api/orders
         [HttpGet]
         public async Task<IActionResult> GetLatest()
         {
@@ -50,24 +50,24 @@ namespace ProductsAPI.Controllers
             return new OkObjectResult(body);
         }
 
-        // GET api/blog/5
+        // GET api/orders/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetOne(int id)
         {
             await Db.Connection.OpenAsync();
-            var query = new ProductsQuery(Db);
+            var query = new OrdersQuery(Db);
             var result = await query.FindOneAsync(id);
             if (result is null)
                 return new NotFoundResult();
             return new OkObjectResult(result);
         }
 
-         // PUT api/blog/5
+        // PUT api/orders/5
         // [HttpPut("{id}")]
         // public async Task<IActionResult> PutOne(int id, [FromBody]Product body)
         // {
         //     await Db.Connection.OpenAsync();
-        //     var query = new ProductsQuery(Db);
+        //     var query = new OrdersQuery(Db);
         //     var result = await query.FindOneAsync(id);
         //     if (result is null)
         //         return new NotFoundResult();
@@ -82,7 +82,7 @@ namespace ProductsAPI.Controllers
         public async Task<IActionResult> DeleteOne(int id)
         {
             await Db.Connection.OpenAsync();
-            var query = new ProductsQuery(Db);
+            var query = new OrdersQuery(Db);
             var result = await query.FindOneAsync(id);
             if (result is null)
                 return new NotFoundResult();
@@ -95,7 +95,7 @@ namespace ProductsAPI.Controllers
         public async Task<IActionResult> DeleteAll()
         {
             await Db.Connection.OpenAsync();
-            var query = new ProductsQuery(Db);
+            var query = new OrdersQuery(Db);
             await query.DeleteAllAsync();
             return new OkResult();
         }
